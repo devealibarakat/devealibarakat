@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Bararkat</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devealibarakat&label=views%20Profile&color=0e75b6&style=flat" alt="alibararkat" />
+</p>
+
 I'm a web developer passionate about everything new in the world of programming! 🚀  
 Follow me on social media:
 

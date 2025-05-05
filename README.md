@@ -1,4 +1,4 @@
-# Welcome to my profile 👋
+<h1 align="center">Hi 👋, I'm Ali Bararkat</h1>
 
 I'm a web developer passionate about everything new in the world of programming! 🚀  
 Follow me on social media:
